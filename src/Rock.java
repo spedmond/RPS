@@ -50,7 +50,7 @@ public class Rock {
             }
         }
         else {
-            result = "Invalid choice.";
+            result = "Choice must be: rock, paper, or scissors";
         }
         System.out.println(result);
     }
